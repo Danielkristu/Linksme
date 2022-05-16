@@ -540,12 +540,20 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 145px;
 }
 
+.h-\[1505px\] {
+  height: 1505px;
+}
+
 .max-h-\[310px\] {
   max-height: 310px;
 }
 
 .w-full {
   width: 100%;
+}
+
+.w-\[340px\] {
+  width: 340px;
 }
 
 .w-\[100px\] {
@@ -562,10 +570,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-\[325px\] {
   width: 325px;
-}
-
-.w-\[340px\] {
-  width: 340px;
 }
 
 .max-w-full {
@@ -604,10 +608,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 15px;
 }
 
-.border-2 {
-  border-width: 2px;
-}
-
 .border {
   border-width: 1px;
 }
@@ -641,11 +641,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
-}
-
-.px-\[325px\] {
-  padding-left: 325px;
-  padding-right: 325px;
 }
 
 .px-\[330px\] {
