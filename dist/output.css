@@ -540,10 +540,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 145px;
 }
 
-.h-\[1505px\] {
-  height: 1505px;
-}
-
 .max-h-\[310px\] {
   max-height: 310px;
 }
